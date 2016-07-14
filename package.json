@@ -1,0 +1,22 @@
+{
+  "name": "crypto-example-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trunk-studio/crypto-example-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trunk-studio/crypto-example-nodejs/issues"
+  },
+  "homepage": "https://github.com/trunk-studio/crypto-example-nodejs#readme",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
